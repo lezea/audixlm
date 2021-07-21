@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GBVHAKPKPDA44KPYIUXOUC246YXUCSHAQDOX5VMQAUXG4JTFKSEDOS7N"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="audixlm"
+ORG_URL="https://www.audixlm.org"
+ORG_DESCRIPTION="AudiXLM is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. AudiXLM has its roots in Bavaria, Germany."
+ORG_TWITTER="@audixlm"
+ORG_LOGO="https://i.ibb.co/7y1Sm1j/photo-2021-07-21-15-54-02.jpg"
+ORG_OFFICIAL_EMAIL="audixlm@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="AudiXLM"
+issuer="GBVHAKPKPDA44KPYIUXOUC246YXUCSHAQDOX5VMQAUXG4JTFKSEDOS7N"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="Audi XLM"
+desc="AudiXLM is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. AudiXLM has its roots in Bavaria, Germany."
+conditions=""
+image="https://i.ibb.co/7y1Sm1j/photo-2021-07-21-15-54-02.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#AudiXLM was issued using the open and inclusive Stellar blockchain network.
